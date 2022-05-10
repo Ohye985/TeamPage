@@ -72,5 +72,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/Ohye985})
-- Twitter [@your-twitter](https://{twitter.com/Ohye_17})
+- GitHub [@Ohye985](https://{github.com/Ohye985})
+- Twitter [@Ohye_17](https://{twitter.com/Ohye_17})
